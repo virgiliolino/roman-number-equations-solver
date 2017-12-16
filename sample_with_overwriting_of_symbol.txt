@@ -1,0 +1,11 @@
+SampleSymbol is I
+SampleSymbol is V
+Ten is X
+Fifty is L
+SampleSymbol SampleSymbol Silver is 34 Credits
+SampleSymbol SampleSymbol kiwi is 57800 Credits
+ThirdSymbol ThirdSymbol Chair is 3910 Credits
+how much is Ten Fifty SampleSymbol SampleSymbol ?
+how many Credits is SampleSymbol AnotherSymbol Silver ?
+how many Credits is SampleSymbol AnotherSymbol Kiwi ?
+how many Credits is SampleSymbol AnotherSymbol Chair ?
