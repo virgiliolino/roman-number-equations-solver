@@ -20,7 +20,8 @@ ThirdSymbol ThirdSymbol Chair is 3910 Credits
 how much is Ten Fifty SampleSymbol SampleSymbol ?
 how many Credits is SampleSymbol AnotherSymbol Silver ?
 how many Credits is SampleSymbol AnotherSymbol Kiwi ?
-how many Credits is SampleSymbol AnotherSymbol Chair ?```
+how many Credits is SampleSymbol AnotherSymbol Chair ?
+```
 
 Enjoy,
 Virgilio
